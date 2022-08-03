@@ -1,0 +1,85 @@
+<html>
+<head>
+<title align="center">RESUME</title>
+</head>
+<body>
+<form>
+<fieldset>
+<h2 align="center">RESUME</h2>
+<h4>NAME   :Maddigunta pradhyumna sai</h4>
+<h4>CONTACT:9346000236</h4>
+<h4>EMAIL  :vvit.20bq1a05c3@gmail.com</h4>
+<hr>
+<h4><u>OBJECTIVE</u></h4>
+<p>3rd year engineering student looking for a role where I can grow and learn from experienced team members with a passion for creative innovation, I am eager to further implement my skills and enhance my data analysis experience with a detail-driven data team like Amazon's, Google, etc...</p>
+<hr>
+<h4><u>EDUCATIONAL QUALIFICATIONS</u></h4><br>
+<table border="1" align="left" style="border-collapse:collapse">
+<tr>
+    <th>Institute Name</th>
+    <th>Educational Qualification</th>
+    <th>CGPA/Percentage</th>
+</tr>
+<tr>
+    <td>Vasireddy Venkatadri Institute of Technology</td>
+    <td>B-tech</td>
+    <td>90.73(till date)</td>
+</tr>
+<tr>
+    <td>Sri Chaitanya Junior College</td>
+    <td>Intermediate</td>
+    <td>96.9</td>
+</tr>
+<tr>
+    <td>Sri Chaitanya High School</td>
+    <td>10th standard</td>
+    <td>10 points</td>
+</tr>
+</table>
+<br>
+<br>
+<br>
+<br>
+<br>
+<hr>
+<h4><u>CERTIFICATIONS</u></h4>
+<ul>
+<li>AI for Everyone</li>
+<li>Introduction to Datascience</li>
+<li>Celonis-Process Mining</li>
+<li>SoloLearn-HTML,PHP</li>
+<li>Introduction to Web Development</li>
+<li>Introduction to Python Programming</li>
+<li>SQL for DataScience</li>
+</ul>
+<hr>
+<h3><u>Technical Skills</u></h3>
+<pre><h3>Language             Level</h3></pre>
+<pre><p> Python               Intermediate</p></pre>
+<pre><p> Java                 Intermediate</p></pre>
+<pre><p> Html                 Intermediate</p></pre>
+<pre><p> sql                  Begginer    </p></pre>
+<pre><p> php                  Begginer    </p></pre>
+<hr>
+<h3><u>Extracurricular Activities</u></h3>
+<p>Member of ACM</p>
+<hr>
+<h3><u>Personal Details</u></h3>
+<p>Mother's Name:K.vijaya Molla</p>
+<p>Siblings: Sister</p>
+<p>Hobbies: Browsing NEt, Listening to Music, Exploring intresting things about nature.</p>
+<p>Strengths:I can grasp things easily, I have Good Communication skills.</p>
+<hr>
+<h3><u>AcknowledgeMent</u></h3>
+<p>I hereby declare that the details and information given above are complete and true to the best of my knowledge.</p>
+</fieldset>
+</form>
+</body>
+</html>
+
+
+
+
+
+
+
