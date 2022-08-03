@@ -1,0 +1,61 @@
+<html>
+<head>
+<title>Dine booking</title>
+</head>
+<body>
+<form>
+<table align="center">
+<td><caption><h2>Dine Booking</h2></caption></td>
+<tr>
+<td><label>Visitor Name:</label></td>
+<td><input type="text" maxlength="20" id="name"/></td>
+</tr>
+<tr>
+<td><label>Number of Members:</label></td>
+<td><input type="text"  id="no"/></td>
+</tr>
+<tr>
+<td><label>Contact No:</label></td>
+<td><input type="number"  id="cno"/></td>
+</tr>
+<tr>
+<td><label>Email:</label></td>
+<td><input type="email"  id="email"/></td>
+</tr>
+
+<tr>
+<td><label>Type of Food:</label></td>
+<td><input type="checkbox"  id="south" value="South Indian"/>South Indian
+<input type="checkbox"  id="North" value="North Indian"/>North Indian
+<input type="checkbox"  id="china" value="Chinese"/>Chinese
+<input type="checkbox"  id="west" value="Western"/>Western</td>
+</tr>
+<tr>
+<td><label>Room Status:</label></td>
+<td><input type="radio" id="ac" value="AC"/>AC
+<input  type="radio" id="nc"  value="Non-AC"/>Non-AC</td>
+</tr>
+<tr>
+<td><label>Venue Preference:</label></td>
+<td><select id="venue">
+<option value="select">--Select--</option>
+<option value="Arena">Arena</option>
+<option value="Fiesta">Fiesta</option>
+<option value="Vista">Vista</option>
+<option value="Mythri">Mythri</option>
+<option value="Oasis">Oasis</option>
+<option value="Ameoba">Ameoba</option>
+</select>
+</td>
+</tr>
+<tr>
+<td><input type="submit" name="submit" value="Book"/></td>
+<td><input type="reset" name="submit" value="reset"/>
+</td>
+</tr>
+</table>
+</form>
+</body>
+</html>
+
+
